@@ -4,7 +4,8 @@
 // @match       https://www.onepiececlicker.com/
 // @grant       none
 // @version     1.1
-// @author      HellMar
+// @downloadURL https://github.com/HellMarr/OnePieceClicker-scripts/blob/main/autoclicker.js
+// @author      HellMarr
 // @description AutoClick for OnePieceClicker.com, works both in dungeons and normal fight
 // ==/UserScript==
 
