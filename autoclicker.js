@@ -3,7 +3,7 @@
 // @namespace   One Piece Clicker Scripts
 // @match       https://www.onepiececlicker.com/
 // @grant       none
-// @version     1.0
+// @version     1.1
 // @author      HellMar
 // @description AutoClick for OnePieceClicker.com, works both in dungeons and normal fight
 // ==/UserScript==
@@ -19,4 +19,4 @@ function autoClick(){
 window.onload=function(){
 
   setInterval(autoClick,1);
-}
+}();
